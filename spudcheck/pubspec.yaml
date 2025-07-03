@@ -1,0 +1,34 @@
+name: spudcheck
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite_flutter: ^0.11.0
+  image: ^3.2.2
+  camera: ^0.10.5+5
+  image_picker: ^0.8.7+5
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  google_fonts: ^4.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  mockito: ^5.4.6
+  build_runner: ^2.5.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/model_kentang.tflite
+    - assets/labels.txt
+    - assets/kentang_deskripsi.json
+    - assets/spudcheckawal.png
+    - assets/spudcheck.png

@@ -1,0 +1,50 @@
+{
+  "Black Scurf": {
+    "penyebab": "Jamur Rhizoctonia solani",
+    "menular": true,
+    "deskripsi": "Menimbulkan kerak hitam seperti tanah kering yang menempel pada permukaan umbi kentang.",
+    "caraMengatasi": "Gunakan bibit sehat dan bebas penyakit, lakukan rotasi tanaman, serta aplikasikan fungisida seperti azoxystrobin atau flutolanil."
+  },
+  "Blackleg": {
+    "penyebab": "Bakteri *Pectobacterium atrosepticum*",
+    "menular": true,
+    "deskripsi": "Pangkal batang kentang menjadi hitam dan membusuk, menyebabkan tanaman layu dan mati.",
+    "caraMengatasi": "Gunakan bibit bersertifikat bebas penyakit, hindari lahan tergenang, dan buang tanaman yang terinfeksi."
+  },
+  "Common Scab": {
+    "penyebab": "Bakteri Streptomyces scabies",
+    "menular": true,
+    "deskripsi": "Permukaan umbi kentang menjadi kasar, berkerak, dan tidak menarik untuk dijual.",
+    "caraMengatasi": "Jaga pH tanah agar tetap rendah (5.0–5.2), hindari pemupukan dengan kapur berlebih, serta rotasi dengan tanaman non-umbian."
+  },
+  "Dry Rot": {
+    "penyebab": "Jamur Fusarium spp.",
+    "menular": true,
+    "deskripsi": "Umbi menjadi keriput dan busuk kering, sering muncul saat penyimpanan.",
+    "caraMengatasi": "Simpan kentang di suhu dan kelembapan yang sesuai, gunakan fungisida pada bibit sebelum tanam."
+  },
+  "Healthy Potatoes": {
+    "penyebab": "-",
+    "menular": false,
+    "deskripsi": "Kentang sehat tanpa tanda-tanda infeksi penyakit atau kerusakan.",
+    "caraMengatasi": "-"
+  },
+  "Miscellaneous": {
+    "penyebab": "Beragam faktor non-patogenik seperti kerusakan mekanis, kekurangan nutrisi, atau kondisi lingkungan",
+    "menular": false,
+    "deskripsi": "Kondisi yang tidak termasuk penyakit kentang spesifik, seperti kerusakan fisik akibat panen, luka pada umbi, atau gejala akibat kekurangan unsur hara (misalnya kekurangan nitrogen menyebabkan daun menguning atau kekurangan kalsium menyebabkan umbi retak).",
+    "caraMengatasi": "Periksa kondisi tanah dan nutrisi, pastikan teknik panen yang baik untuk menghindari luka pada umbi, serta jaga kelembapan dan suhu tanah yang optimal."
+  },
+  "Not Potatoes": {
+    "penyebab": "-",
+    "menular": false,
+    "deskripsi": "Gambar yang tidak menunjukkan objek kentang.",
+    "caraMengatasi": "-"
+  },
+  "Pink Rot": {
+    "penyebab": "Jamur air Phytophthora erythroseptica",
+    "menular": true,
+    "deskripsi": "Umbi membusuk dan berwarna merah muda saat dipotong, berbau busuk.",
+    "caraMengatasi": "Tingkatkan drainase tanah, hindari irigasi berlebihan, dan gunakan fungisida metalaxyl."
+  }
+}
