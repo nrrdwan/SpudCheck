@@ -89,7 +89,7 @@ spudcheck/
 ├── assets/
 │   ├── model_kentang.tflite   # Model AI untuk klasifikasi kentang
 │   ├── labels.txt             # Daftar label klasifikasi
-│   ├── kentang_deskripsi.json# Informasi penyakit & deskripsi klasifikasi
+│   ├── kentang_deskripsi.json # Informasi penyakit & deskripsi klasifikasi
 │   ├── spudcheck.png          # Logo aplikasi
 │   └── spudcheckawal.png      # Gambar pendukung halaman awal
 ```
